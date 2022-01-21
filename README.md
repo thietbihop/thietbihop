@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @thietbihop
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-thietbihop/thietbihop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+CÔNG TY TNHH CUNG ỨNG NGỌC THIÊN
+Chuyên cung cấp các thiết bị hội nghị trực tuyến
+Hotline: 028 777 98 999 - 1900 099 978
+Website: https://thietbihop.com/
+FB: https://www.facebook.com/NgocThienSup
